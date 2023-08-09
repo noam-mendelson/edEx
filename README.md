@@ -1,3 +1,3 @@
 # edEx
 Completion task
-Hello
+Hello, this is a commit
